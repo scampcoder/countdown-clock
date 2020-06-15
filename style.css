@@ -20,3 +20,10 @@ h1 {
   text-align: center;
   font-size: 55px;
 }
+
+#clockdiv > div {
+  padding: 50px;
+  border-radius: 7px;
+  background-color: #1F5A56;
+  display: inline-block;
+}
